@@ -14,7 +14,7 @@ class Flight():
 
 flight = Flight(3)
 
-people = ["Prathamesh", "Natasha", "Harry", "Ron"]
+people = ["Harry", "John", "Harry", "Ron"]
 
 for person in people:
     success = flight.addPassenger(person)
